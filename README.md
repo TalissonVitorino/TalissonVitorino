@@ -3,7 +3,7 @@
 
 
 
-![Talisson Vitorino GitHub stats](https://github-readme-stats.vercel.app/api?username=TalissonVitorino&show_icons=true&theme=radical)
+![Talisson Vitorino GitHub stats](https://github-readme-stats.vercel.app/api?username=TalissonVitorino&showicons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
