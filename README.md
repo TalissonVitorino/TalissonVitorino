@@ -5,7 +5,7 @@
 
 
 
-![Talisson GitHub stats](https://github-readme-stats.vercel.app/api?username=TalissonVitorino_icons=true&theme=dracula&count_private=true)
+username=TalissonVitorino_icons=true&theme=dracula&count_private=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
