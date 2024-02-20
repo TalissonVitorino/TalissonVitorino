@@ -3,10 +3,6 @@
 
 
 
-
-
-username=TalissonVitorino_icons=true&theme=dracula&count_private=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
