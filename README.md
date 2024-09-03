@@ -8,7 +8,7 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
-   <img align="center" alt="html5" src=https://img.shields.io/badge/Kotlin-0095D6?&style=for-the-badge&logo=Python&logoColor=white />
+   <img align="center" alt="html5" src=https://img.shields.io/badge/Python-0095D6?&style=for-the-badge&logo=Python&logoColor=white />
 <div style="display: inline_block">
    <img align="center" alt="html5" src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white />
   <img align="center" alt="html5" src=	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />
