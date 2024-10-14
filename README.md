@@ -1,3 +1,6 @@
+# Contribuições no GitHub
+![Contribuições](https://github.com/TalissonVitorino/github-stats/blob/master/generated/overview.svg)
+![Linguagens Mais Usadas](https://github.com/TalissonVitorino/github-stats/blob/master/generated/languages.svg)
 
 ## Tecnologias que eu uso no meu dia
 
