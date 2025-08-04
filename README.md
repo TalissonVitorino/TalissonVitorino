@@ -1,33 +1,36 @@
 <h1 align="center">👨‍💻 Olá, eu sou o Talisson Vitorino</h1>
 
-<p align="center">Desenvolvedor apaixonado por tecnologia, inovação e soluções que impactam positivamente. Sempre aprendendo e aplicando novos conhecimentos em sistemas reais e úteis.</p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TalissonVitorino&style=flat-square&color=1E90FF" alt="Contador de Visitantes"/>
+  Desenvolvedor apaixonado por tecnologia, inovação e soluções que impactam positivamente.<br>
+  Sempre aprendendo e aplicando novos conhecimentos em sistemas reais e úteis.
 </p>
 
 ---
 
-<h2 align="left">🚀 Tecnologias que utilizo</h2>
+<h2 align="center">🚀 Tecnologias</h2>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
 
-<h2 align="left">📫 Onde me encontrar</h2>
+<h2 align="center">📊 Estatísticas</h2>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalissonVitorino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalissonVitorino&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+<h2 align="center">📫 Conecte-se comigo</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/talissonvitorino/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -35,16 +38,4 @@
 
 ---
 
-<h2 align="left">📊 Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalissonVitorino&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=false" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalissonVitorino&layout=compact&langs_count=5&theme=default&hide_border=false" height="150" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalissonVitorino&theme=light&bg_color=ffffff&color=1E90FF&line=FFD700&point=1E90FF&area=true&hide_border=false" height="320" />
-</div>
-
----
-
-<p align="center">🧠 Seja bem-vindo ao meu perfil! Volte sempre. 🚀</p>
+<p align="center">🧠 Seja bem-vindo ao meu perfil! 🚀</p>
