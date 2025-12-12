@@ -27,7 +27,7 @@
 
 ---
 
-## ⭐ Projetos em destaque
+##  Projetos em destaque
 
 > Dica: deixe **3 a 6** repositórios fixados (Pinned) no seu perfil.
 
