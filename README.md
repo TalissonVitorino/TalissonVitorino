@@ -31,17 +31,17 @@
 
 > Dica: deixe **3 a 6** repositórios fixados (Pinned) no seu perfil.
 
-- ✅ **Ktor Minhas Tarefas** — API REST em Kotlin com Ktor (CRUD + estrutura de projeto)  
-  🔗 https://github.com/TalissonVitorino/ktor-minhas-tarefas
+-  **Ktor Minhas Tarefas** — API REST em Kotlin com Ktor (CRUD + estrutura de projeto)  
+   https://github.com/TalissonVitorino/ktor-minhas-tarefas
 
-- 🧩 **BACKEND-EM-KOTLIN** — base para evoluir APIs com Kotlin (arquitetura e endpoints)  
-  🔗 https://github.com/TalissonVitorino/BACKEND-EM-KOTLIN
+-  **BACKEND-EM-KOTLIN** — base para evoluir APIs com Kotlin (arquitetura e endpoints)  
+   https://github.com/TalissonVitorino/BACKEND-EM-KOTLIN
 
 - 🏋️ **Novo_Projeto_Academia** — sistema/app com foco em projeto real (cadastros, regras e persistência)  
-  🔗 https://github.com/TalissonVitorino/Novo_Projeto_Academia
+   https://github.com/TalissonVitorino/Novo_Projeto_Academia
 
-- 📚 **kotlin-collections** — estudos e prática de coleções (ótimo para entrevistas e fundamentos)  
-  🔗 https://github.com/TalissonVitorino/kotlin-collections
+-  **kotlin-collections** — estudos e prática de coleções (ótimo para entrevistas e fundamentos)  
+  https://github.com/TalissonVitorino/kotlin-collections
 
 ---
 
