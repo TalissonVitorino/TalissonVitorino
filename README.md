@@ -62,17 +62,6 @@
 
 ---
 
-## 📊 GitHub
-
-> Se algum card quebrar (rate-limit/instabilidade), pode remover sem perder qualidade do perfil.
-> Use username em minúsculo para evitar bugs.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talissonvitorino&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 <p align="center">
    <strong>Sempre aprendendo. Sempre construindo.</strong> 🚀
 </p>
