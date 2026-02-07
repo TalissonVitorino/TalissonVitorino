@@ -20,28 +20,10 @@
 
 ##  Foco atual
 
-- 📱 **Kotlin Multiplatform / Compose Multiplatform** (compartilhando código e UI entre plataformas)
-- 🌐 **Backend em Kotlin com Ktor** (rotas, serviços, persistência, APIs REST)
-- 🍃 **Spring Boot + Java** (APIs, boas práticas, organização por camadas)
-- 🧰 **Bancos relacionais + Docker** (MySQL/SQLite, ambiente reprodutível)
-
----
-
-##  Projetos em destaque
-
-> Dica: deixe **3 a 6** repositórios fixados (Pinned) no seu perfil.
-
--  **Ktor Minhas Tarefas** — API REST em Kotlin com Ktor (CRUD + estrutura de projeto)  
-   https://github.com/TalissonVitorino/ktor-minhas-tarefas
-
--  **BACKEND-EM-KOTLIN** — base para evoluir APIs com Kotlin (arquitetura e endpoints)  
-   https://github.com/TalissonVitorino/BACKEND-EM-KOTLIN
-
-- 🏋️ **Novo_Projeto_Academia** — sistema/app com foco em projeto real (cadastros, regras e persistência)  
-   https://github.com/TalissonVitorino/Novo_Projeto_Academia
-
--  **kotlin-collections** — estudos e prática de coleções (ótimo para entrevistas e fundamentos)  
-  https://github.com/TalissonVitorino/kotlin-collections
+-  **Kotlin Multiplatform / Compose Multiplatform** (compartilhando código e UI entre plataformas)
+-  **Backend em Kotlin com Ktor** (rotas, serviços, persistência, APIs REST)
+-  **Spring Boot + Java** (APIs, boas práticas, organização por camadas)
+-  **Bancos relacionais + Docker** (MySQL/SQLite, ambiente reprodutível)
 
 ---
 
@@ -94,5 +76,5 @@
 ---
 
 <p align="center">
-  🧠 <strong>Sempre aprendendo. Sempre construindo.</strong> 🚀
+   <strong>Sempre aprendendo. Sempre construindo.</strong> 🚀
 </p>
