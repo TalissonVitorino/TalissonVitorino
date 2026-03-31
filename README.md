@@ -1,51 +1,53 @@
-<h1 align="center">👨‍💻 Talisson Vitorino</h1>
+<h1 align="center">Talisson Vitorino</h1>
 
 <p align="center">
-  <strong>Kotlin Multiplatform (KMP)</strong> • <strong>Ktor</strong> • <strong>Spring Boot</strong> • Java<br/>
-  Construo <strong>apps multiplataforma</strong> e <strong>APIs REST</strong> com foco em arquitetura limpa, projetos reais e evolução constante.
+  Backend Developer • Android Developer
+</p>
+
+<p align="center">
+  Desenvolvimento de aplicações robustas e APIs escaláveis utilizando Kotlin, Java e boas práticas de arquitetura.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talissonvitorino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Se quiser adicionar e-mail depois:
-  <a href="mailto:SEUEMAILAQUI">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  -->
 </p>
 
 ---
 
-##  Foco atual
+## Sobre
 
--  **Kotlin Multiplatform / Compose Multiplatform** (compartilhando código e UI entre plataformas)
--  **Backend em Kotlin com Ktor** (rotas, serviços, persistência, APIs REST)
--  **Spring Boot + Java** (APIs, boas práticas, organização por camadas)
--  **Bancos relacionais + Docker** (MySQL/SQLite, ambiente reprodutível)
+Desenvolvedor focado em construção de aplicações backend e mobile, com experiência prática em projetos reais utilizando Kotlin, Java e arquiteturas modernas.
+
+Atuo na criação de APIs REST, organização de código por camadas e desenvolvimento de aplicações Android com foco em qualidade, escalabilidade e manutenção.
 
 ---
 
-##  Tecnologias
+## Especialidades
 
-### Kotlin / Multiplataforma / Backend
+- Desenvolvimento de APIs REST com **Ktor** e **Spring Boot**
+- Aplicações Android com **Kotlin** e **Jetpack Compose**
+- Kotlin Multiplatform para compartilhamento de código
+- Arquitetura limpa e separação de responsabilidades
+- Integração com bancos de dados relacionais
+- Ambientes reprodutíveis com Docker
+
+---
+
+## Tecnologias
+
+### Backend & Mobile
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### Linguagens e Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-</p>
-
-### Banco de dados / DevOps
+### Dados & Infraestrutura
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -54,14 +56,15 @@
 
 ---
 
-## ✅ Como eu organizo projetos
+## Organização de Projetos
 
-- Separação clara de **camadas** (routes/controller → service/usecase → repository → database)
-- Código legível, nomes claros e regras de negócio bem definidas
-- Evolução por **roadmap** e melhorias contínuas
+- Estrutura em camadas (Controller → Service → Repository → Database)
+- Separação clara de responsabilidades
+- Código legível e orientado a manutenção
+- Evolução contínua baseada em melhorias incrementais
 
 ---
 
-<p align="center">
-   <strong>Sempre aprendendo. Sempre construindo.</strong> 🚀
-</p>
+## Objetivo
+
+Construir soluções consistentes, escaláveis e bem estruturadas, evoluindo constantemente como desenvolvedor backend e mobile.
