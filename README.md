@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AQSLLAt4alpuMYDjFORmVIw.png" alt="Banner" width="100%"/>
+  <img src="1_QSLLAt4alpuMYDjFORmVIw.png" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Talisson Vitorino</h1>
